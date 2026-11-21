@@ -1,0 +1,177 @@
+{
+ "user": "shrijak",
+ "host": "gravity",
+ "sections": [
+  {
+   "title": null,
+   "rows": [
+    [
+     [
+      "OS"
+     ],
+     "[placeholder: OS]"
+    ],
+    [
+     [
+      "Uptime"
+     ],
+     "{uptime}"
+    ],
+    [
+     [
+      "Host"
+     ],
+     "Chandigarh, India"
+    ],
+    [
+     [
+      "Kernel"
+     ],
+     "Agent runtimes, retrieval & LLM evals"
+    ],
+    [
+     [
+      "IDE"
+     ],
+     "[placeholder: editor]"
+    ],
+    null,
+    [
+     [
+      "Languages",
+      "Programming"
+     ],
+     "Python, TypeScript, JavaScript"
+    ],
+    [
+     [
+      "Languages",
+      "Computer"
+     ],
+     "Jupyter, LaTeX, JSON, YAML"
+    ],
+    null,
+    [
+     [
+      "Projects",
+      "Agents"
+     ],
+     "ARBITER, Cognisync"
+    ],
+    [
+     [
+      "Projects",
+      "Retrieval"
+     ],
+     "TreeRAG"
+    ],
+    [
+     [
+      "Projects",
+      "Research"
+     ],
+     "eml-lab, physio-placebo"
+    ],
+    null,
+    [
+     [
+      "Hobbies",
+      "Body"
+     ],
+     "run, lift, cook"
+    ],
+    [
+     [
+      "Hobbies",
+      "Mind"
+     ],
+     "code, read about space, time & gravity"
+    ]
+   ]
+  },
+  {
+   "title": "Contact",
+   "rows": [
+    [
+     [
+      "Email"
+     ],
+     "shrijakkumar@gmail.com"
+    ],
+    [
+     [
+      "LinkedIn"
+     ],
+     "linkedin.com/in/shrijakkumar"
+    ],
+    [
+     [
+      "X"
+     ],
+     "@shrijacked"
+    ]
+   ]
+  },
+  {
+   "title": "GitHub Stats",
+   "rows": [
+    {
+     "pair": [
+      [
+       [
+        "Repos"
+       ],
+       "{repos}",
+       "repos"
+      ],
+      [
+       [
+        "Stars"
+       ],
+       "{stars}",
+       "stars"
+      ]
+     ]
+    },
+    {
+     "pair": [
+      [
+       [
+        "Commits",
+        "1y"
+       ],
+       "{commits}",
+       "commits"
+      ],
+      [
+       [
+        "Followers"
+       ],
+       "{followers}",
+       "followers"
+      ]
+     ]
+    },
+    {
+     "pair": [
+      [
+       [
+        "Contributions",
+        "1y"
+       ],
+       "{contributions}",
+       "contributions"
+      ],
+      [
+       [
+        "Best streak"
+       ],
+       "{streak}",
+       "streak"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
